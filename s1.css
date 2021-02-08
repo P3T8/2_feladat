@@ -1,0 +1,49 @@
+ body{
+     background-color: lightyellow;
+     font-family: Verdana, Arial, sans-serif
+ }
+ h1{
+     color: orange;
+     text-align: center;
+     font-style: italic
+ }
+
+ h2{
+     color: (#999999);
+     margin-top: 0 auto; 
+  }
+
+  .article{
+    text-align: center;  
+    width: 1024px;
+    margin: 5px  
+  }
+
+  .intro{
+      font-style: italic
+      padding: 50px;
+      margin: 50px
+  }
+
+  .selection{
+    width: 300px
+    margin: 20px
+    float: left
+  }
+
+  a{
+
+  }
+
+  a:visited{
+
+  }
+
+  a:hover{
+      
+  }
+
+  img{
+      width: 280px;
+      margin-top: 0px;
+  }
